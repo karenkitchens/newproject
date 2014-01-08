@@ -1,5 +1,6 @@
 Hello class.
 
-I hope you are staying warm if you're in the US
+small change. I hope you are staying warm if you're in the US
 I hope you are staying cool if you're in Australia.
 
+I am in DC. We have mild seasons.
