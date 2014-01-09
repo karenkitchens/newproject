@@ -2,4 +2,5 @@
 
 * Name: Karen
 * Profession: Whiner
-* Email: karen@radcampaign.com
+* Student Email: karen@radcampaign.com
+* Student Profile: okcupid
