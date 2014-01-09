@@ -1,7 +1,7 @@
-This is the first line
+this is the first line
 
-This is the second line.
+this is not the second line.
 
-This is the 3rd line.
+this is the 3rd line of text.
 
 this is the last line.
